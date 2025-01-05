@@ -78,7 +78,7 @@ const Footer = () => {
 
                 {/* Copyright */}
                 <div className="mt-8 pt-8 border-t border-neutral-800 text-center text-gray-400">
-                    <p>© {currentYear} Your StreamFlix. All rights reserved.</p>
+                    <p>© {currentYear} Your AnimeStreaming. All rights reserved.</p>
                 </div>
             </div>
         </footer>

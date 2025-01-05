@@ -48,7 +48,7 @@ const Navbar = () => {
                             href="/"
                             className="text-white font-bold text-xl hover:text-gray-300 transition"
                         >
-                            StreamFlix
+                            AnimeStreaming
                         </Link>
                     </div>
 
