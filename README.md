@@ -73,16 +73,11 @@ To get a glimpse of how the website looks and functions, check out the demo vide
 
 ## Future Plans
 
-We are currently working on a more complex and fully-fledged anime streaming website that will utilize **TypeScript**. The advantages of using TypeScript include:
-
--   **Strong Typing**: Helps catch errors at compile time, reducing runtime errors.
--   **Improved Developer Experience**: Offers better tooling, such as autocompletion and type checking, enhancing productivity and code maintainability.
--   **Enhanced Refactoring**: Easier to manage large codebases with structured code and clearly defined data types.
-
-The repository link for the TypeScript version will be updated here once available.
+I am currently working on a more complex and fully-fledged anime streaming website project.
+The repository link for that project will be updated here once available.
 
 ## Conclusion
 
-We hope this project helps you learn and explore the implementation of an anime streaming website. Contributions and suggestions are welcome!
+Hope this project helps you learn and explore the implementation of an anime streaming website. Contributions and suggestions are welcome!
 
 Happy coding!
